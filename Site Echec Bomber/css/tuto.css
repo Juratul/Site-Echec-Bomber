@@ -1,0 +1,17 @@
+h1,p{
+	text-align: center;
+
+}
+h2{
+	text-align: left;
+}
+*{
+	border: 1px solid red;
+}
+li.langue{
+	margin-left: 590px;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
